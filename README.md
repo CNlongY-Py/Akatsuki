@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/prompt_toolkit-powered-orange?logo=python" alt="prompt_toolkit">
 </p>
 
-<h1 align="center">⚡ Akatsuki</h1>
+<h1 align="center">⚡ Akatsuki ⚡</h1>
 <p align="center"><i>基于 prompt_toolkit 的多账户终端框架 · 插件化事件驱动架构</i></p>
 
 ---
