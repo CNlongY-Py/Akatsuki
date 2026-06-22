@@ -1,6 +1,6 @@
 # 插件开发教程
 
-插件是扩展框架功能的模块。连接外部服务（如 API、WebSocket）的插件称为**适配器**，适配器与普通插件在代码结构上一致，只在概念上区分用途。
+插件是扩展框架功能的模块。
 
 ## 文件结构
 
@@ -146,7 +146,7 @@ def _on_input(payload):
     _LOG.info(f"user typed: {text}")
 ```
 
-### 带绑定过滤的事件（由适配器触发）
+### 带绑定过滤的事件
 
 ```python
 @events.on_event("custom.event.name")
@@ -210,7 +210,7 @@ def save_setting(key, value):
     _CFG.set(key, value)
 ```
 
-## 事件派发（供适配器使用）
+## 事件派发
 
 如果你的插件触发事件让其他插件响应：
 

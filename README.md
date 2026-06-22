@@ -61,8 +61,6 @@ Akatsuki/
 | `/clear` | 内置 | 清屏 |
 | `/debug` | Debug | 查看/切换日志等级 |
 | `/plugin` | PluginMgr | 插件生命周期管理 |
-| `/solian ...` | solian 适配器 | Solian WebSocket 客户端 |
-| `/solian_api ...` | solian 适配器 | Solian API 调试 |
 
 ## 🔌 插件开发
 

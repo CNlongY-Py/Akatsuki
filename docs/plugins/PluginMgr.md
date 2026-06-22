@@ -23,7 +23,7 @@ META = {"name": "PluginMgr", "version": "1.0.0", "author": "CNlongY", "descripti
 - `load` 调用 `loader.load_plugin()`，通过 `importlib.import_module` 导入
 - `unload` 从 `sys.modules` 删除模块及其子模块
 - `reload` = unload + load
-- 通过 `_meta_modules()` 扫描所有已加载 `plugins.*` 模块的 META，可识别包内子插件（如 `Solian.Message`）
+- 通过 `_meta_modules()` 扫描所有已加载 `plugins.*` 模块的 META，可识别包内子插件（如 `SubPlugin`）
 - 状态显示使用 `events.events` 检查是否注册了事件 handler
 - 插件计数器通过 `events._handler_name()` 匹配 META 名或模块名
 
