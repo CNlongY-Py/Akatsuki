@@ -1,0 +1,5 @@
+{
+  "LEVEL": "INFO",
+  "LOG_LEVEL": "",
+  "FORMATS": "/TIME/[/LEVEL/]</NAME/>:/TEXT/"
+}
