@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/CNlongY-Py/Re-SimpQ/image?language=1&amp;name=1&amp;owner=1&&amp;stargazers=1&amp;theme=Light" alt="Akatsuki">
+  <img src="https://socialify.git.ci/CNlongY-Py/Re-SimpQ/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="Akatsuki">
 </p>
 
 <p align="center">
